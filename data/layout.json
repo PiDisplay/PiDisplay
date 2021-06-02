@@ -1,0 +1,10 @@
+{
+    "displayedElements": [
+        "activeChannels",
+        "forward",
+        "maxReceive",
+        "maxSend",
+        "syncProgress"
+    ],
+    "invertColors": false
+}
